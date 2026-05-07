@@ -1,4 +1,4 @@
-# 👾 Hey, I'm [your name]
+# 👾 Hey, I'm Chloe
 
 > 🧠 Cybersecurity enthusiast • Embedded systems • OSINT explorer • Builder
 
